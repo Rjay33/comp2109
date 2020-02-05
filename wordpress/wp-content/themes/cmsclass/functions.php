@@ -323,3 +323,65 @@ require get_template_directory() . '/inc/template-tags.php';
  * Customizer additions.
  */
 require get_template_directory() . '/inc/customizer.php';
+/// Edit the posts
+add_filter( 'excerpt_length', function($length){
+	return 20;
+});
+/**
+	* Start Custom Functions Below
+**/
+// Create Your First Custom Post Type!!
+// Creates Movie Reviews Custom Post type
+// function movie_reviews_init() - Here we create a new function for our custom post type.  We do this to limit conflicts with any other code inside our function.php file.  It is also a best practice when adding new code to any file like functions.php
+function movie_reviews_init(){
+	$args = array(
+		// Label - A plural descriptive name for the post type marked for translation.  If you don't declare a custom Label, WordPress will use the name of the custom post type by default.
+		'label' => 'Movie Reviews',
+		//  public - Whether a post type is intended to be used publicly either via the admin interface or by front-end users. WordPress sets this to false by default.  Here we set it to true as we do what our custom post type to display publicly
+		'public' => true,
+		// show_ui - Generates a default UI for managing this post type in the admin.  You set this to true or false. For the sake of usuability, a UI in the admin area is always a good thing.
+		'show_ui' => true,
+		//  capability_type - Here we can declare what type of custom post type we will be dealing with.  It is used to build the read, edit, and delete capabilities of a post or page.  You can choose either post of page.
+		'capability_type' => 'post',
+		// hierarchical - Whether the post type is hierarchical(e.g.page).  Or in Laymen's terms, whether or not you can declare a parent page, child page, etc... of the post type.  Thihs is mainly intended for pages.  Here we declare it false so there's no need to worry about it for our example.
+		'hierarchical' => false,
+		// rewrite - This rule is either true or false.  The default is true so if slug argument is entered then the slug name is prepended to the posts.  Our slug "movie-reviews" will be prepended to each new post of that type.
+		'rewrite' => array('slug' => 'movie-reviews'),
+		// query_var - This rule is either true or false.  It sets the post type name as a query variable.
+		'query_var' => true,
+		// menu_icon - This rule declares a custom icon for the admin area.  Here we use a neat resource called dashicons that are included in WordPress already.
+		'menu_icon' => 'dashicons-video-alt',
+		// supports - This is usually an array of features the custom post type will support.  Here we have quite a long list.  These will ties into the admin area.
+		'supports' => array(
+			'title',
+			'editor',
+			'excerpt',
+			'trackbacks',
+			'custom-fields',
+			'comments',
+			'revisions',
+			'thumbnail',
+			'author',
+			'page-attributes',)
+		);
+		register_post_type( 'movie-reviews', $args );
+}
+add_action( 'init', 'movie_reviews_init' );
+
+//  Lets make our first shortcode
+function movie_reviews(){
+	$query = new WP_Query( array('post_type' => 'movie-reviews', 'posts_per_page' => 10 ) );
+	while ( $query->have_posts() ) : $query->the_post();
+	echo "<div><h3>";
+	the_title();
+	echo "</h3></div>";
+	echo "<div class='movie-content'>";
+		the_post_thumbnail();
+		the_content();
+	echo "</div>";
+	endwhile;
+}
+function movie_shortcode(){
+	add_shortcode('movie_shortcode', 'movie_reviews');
+}
+add_action( 'init', 'movie_shortcode');
