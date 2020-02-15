@@ -1,6 +1,6 @@
 <?php
 /**
-  * Template Name: Movie reviews
+  * Template Name: Movie reviews template
   * Template Post Type: post, page, product
   **/
   get_header ();

@@ -1,0 +1,401 @@
+# Translation of Themes - Customizable in English (Canada)
+# This file is distributed under the same license as the Themes - Customizable package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-27 17:06:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Customizable\n"
+
+#. Description of the plugin/theme
+msgid "Customizable is a WordPress responsive cooperate theme based on Twitter bootstrap framework which can be used for personal or corporate websites. Customizable is a free WordPress theme with premium functionality and design. Customizable Pro version is a paid version which has several other options like 6 color schemes, different page templates, more Google Fonts options etc."
+msgstr "Customizable is a WordPress responsive cooperate theme based on Twitter bootstrap framework which can be used for personal or corporate websites. Customizable is a free WordPress theme with premium functionality and design. Customizable Pro version is a paid version which has several other options like 6 colour schemes, different page templates, more Google Fonts options etc."
+
+#. Theme Name of the plugin/theme
+msgid "Customizable"
+msgstr "Customizable"
+
+#: functions.php:368 functions.php:370
+msgid "Posted in : %1$s  on %3$s by : %4$s "
+msgstr "Posted in : %1$s  on %3$s by : %4$s "
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#: theme-options/fasterthemes.php:289
+msgid "Options saved successfully."
+msgstr "Options saved successfully."
+
+#: theme-options/fasterthemes.php:281
+msgid "fasterthemes.com"
+msgstr "fasterthemes.com"
+
+#: theme-options/fasterthemes.php:260 theme-options/fasterthemes.php:264
+msgid "Download Link"
+msgstr "Download Link"
+
+#: theme-options/fasterthemes.php:255
+msgid "Caption"
+msgstr "Caption"
+
+#: theme-options/fasterthemes.php:251
+msgid "Download Caption"
+msgstr "Download Caption"
+
+#: theme-options/fasterthemes.php:249
+msgid "Download Settings"
+msgstr "Download Settings"
+
+#: theme-options/fasterthemes.php:210
+msgid "Select Category"
+msgstr "Select Category"
+
+#: theme-options/fasterthemes.php:205
+msgid "Category"
+msgstr "category"
+
+#: theme-options/fasterthemes.php:199
+msgid "Enter recent post title for your site , you would like to display in the Home Page."
+msgstr "Enter recent post title for your site , you would like to display in the Home Page."
+
+#: theme-options/fasterthemes.php:196
+msgid "Recent Post Title"
+msgstr "Recent Post Title"
+
+#: theme-options/fasterthemes.php:194
+msgid "Second Section"
+msgstr "Second Section"
+
+#: theme-options/fasterthemes.php:188
+msgid "Enter description for your home template , you would like to display in the Home Page."
+msgstr "Enter description for your home template , you would like to display in the Home Page."
+
+#: theme-options/fasterthemes.php:187
+msgid "Section Description"
+msgstr "Section Description"
+
+#: theme-options/fasterthemes.php:186
+msgid "Enter title for your home template , you would like to display in the Home Page."
+msgstr "Enter title for your home template , you would like to display in the Home Page."
+
+#: theme-options/fasterthemes.php:182
+msgid "Upload icon for your home template , you would like to display in the Home Page."
+msgstr "Upload icon for your home template , you would like to display in the Home Page."
+
+#: theme-options/fasterthemes.php:173
+msgid "Tab"
+msgstr "Tab"
+
+#: theme-options/fasterthemes.php:163 theme-options/fasterthemes.php:183
+msgid "Section Title"
+msgstr "Section Title"
+
+#: theme-options/fasterthemes.php:161
+msgid "First Section"
+msgstr "First Section"
+
+#: theme-options/fasterthemes.php:156
+msgid "Slide Link"
+msgstr "Slide Link"
+
+#: theme-options/fasterthemes.php:145
+msgid "Slide"
+msgstr "Slide"
+
+#: theme-options/fasterthemes.php:142
+msgid "Slider"
+msgstr "Slider"
+
+#: theme-options/fasterthemes.php:134
+msgid "Some text regarding copyright of your site, you would like to display in the footer."
+msgstr "Some text regarding copyright of your site, you would like to display in the footer."
+
+#: theme-options/fasterthemes.php:131
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: theme-options/fasterthemes.php:125 theme-options/fasterthemes.php:166
+msgid "Some text regarding default home page title."
+msgstr "Some text regarding default home page title."
+
+#: theme-options/fasterthemes.php:122
+msgid "Home page heading Text"
+msgstr "Home page heading Text"
+
+#: theme-options/fasterthemes.php:111
+msgid "Size of favicon should be exactly 32x32px for best results."
+msgstr "Size of favicon should be exactly 32x32px for best results."
+
+#: theme-options/fasterthemes.php:109
+msgid "Favicon"
+msgstr "Favicon"
+
+#: theme-options/fasterthemes.php:101 theme-options/fasterthemes.php:114
+#: theme-options/fasterthemes.php:150 theme-options/fasterthemes.php:177
+msgid "Upload"
+msgstr "Upload"
+
+#: theme-options/fasterthemes.php:100 theme-options/fasterthemes.php:113
+#: theme-options/fasterthemes.php:149 theme-options/fasterthemes.php:176
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: theme-options/fasterthemes.php:98
+msgid "Size of logo should be exactly 117x43px for best results. Leave blank to use text heading."
+msgstr "Size of logo should be exactly 117x43px for best results. Leave blank to use text heading."
+
+#: theme-options/fasterthemes.php:96
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: theme-options/fasterthemes.php:84
+msgid "PRO Theme Features"
+msgstr "PRO Theme Features"
+
+#: theme-options/fasterthemes.php:83
+msgid "Home Page Settings"
+msgstr "Home Page Settings"
+
+#: theme-options/fasterthemes.php:82
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: theme-options/fasterthemes.php:73 theme-options/fasterthemes.php:284
+msgid "Save Options"
+msgstr "Save Options"
+
+#: theme-options/fasterthemes.php:43 theme-options/fasterthemes.php:72
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: theme-options/fasterthemes.php:42
+msgid "Faster Themes Options"
+msgstr "Faster Themes Options"
+
+#: tag.php:10
+msgid "Tag Archives"
+msgstr "Tag Archives"
+
+#: single.php:32
+msgid "Pages:"
+msgstr "Pages:"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Search results for"
+
+#: page-template/full-width.php:41
+msgid "no posts found "
+msgstr "no posts found "
+
+#: page-template/frontpage.php:120
+msgid "Download "
+msgstr "Download "
+
+#: page-template/frontpage.php:98
+msgid "Comments:"
+msgstr "Comments:"
+
+#: page-template/frontpage.php:95
+msgid "Post By:"
+msgstr "Post By:"
+
+#: inc/social-custom-widget.php:61
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/social-custom-widget.php:54
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/social-custom-widget.php:47
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/social-custom-widget.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/social-custom-widget.php:33
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: inc/social-custom-widget.php:10
+msgid "customize Social Link"
+msgstr "customize Social Link"
+
+#: functions.php:372
+msgid "Posted on : %3$s by : %4$s "
+msgstr "Posted on : %3$s by : %4$s "
+
+#: functions.php:361
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: functions.php:278
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:272
+msgid "Post author "
+msgstr "Post author"
+
+#: functions.php:254
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:252
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:222
+msgid "404"
+msgstr "404"
+
+#: functions.php:221
+msgid "Search Results"
+msgstr "Search Results"
+
+#: functions.php:220
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: functions.php:219
+msgid "Author Archive"
+msgstr "Author Archive"
+
+#: functions.php:218
+msgid "Archive for"
+msgstr "Archive for"
+
+#: functions.php:216 functions.php:217
+msgid "Archive for "
+msgstr "Archive for "
+
+#: functions.php:191
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:168
+msgid "Footer area four"
+msgstr "Footer Area Four"
+
+#: functions.php:159
+msgid "Footer area three"
+msgstr "Footer Area Three"
+
+#: functions.php:150
+msgid "Footer area two"
+msgstr "Footer Area Two"
+
+#: functions.php:143 functions.php:152 functions.php:161 functions.php:170
+msgid "Appears on footer side"
+msgstr "Appears on footer side"
+
+#: functions.php:141
+msgid "Footer area one"
+msgstr "Footer Area One"
+
+#: functions.php:133
+msgid "Additional sidebar that appears on the right."
+msgstr "Additional sidebar that appears on the right."
+
+#: functions.php:131
+msgid "Content Sidebar"
+msgstr "Content Sidebar"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:118
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:105
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:28
+msgid "Secondary menu in footer"
+msgstr "Secondary menu in footer"
+
+#: functions.php:27
+msgid "Top primary menu"
+msgstr "Top primary menu"
+
+#: footer.php:19 footer.php:23
+msgid "Powered by %1$s and %2$s"
+msgstr "Powered by %1$s and %2$s"
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:14
+msgid "One thought on  \"%2$s\""
+msgid_plural "%1$s thoughts on  %2$s"
+msgstr[0] "One thought on  \"%2$s\""
+msgstr[1] "%1$s thoughts on  %2$s"
+
+#: category.php:10
+msgid "Category Archives"
+msgstr "Category Archives"
+
+#: author.php:10
+msgid "All posts by"
+msgstr "All posts by"
+
+#: archive.php:58 author.php:50 category.php:48 index.php:48
+#: page-template/frontpage.php:106 page.php:41 search.php:48 tag.php:49
+msgid "no posts found"
+msgstr "no posts found"
+
+#: archive.php:39 author.php:30 category.php:28 index.php:28 search.php:30
+#: tag.php:28
+msgid "READ MORE"
+msgstr "Read more"
+
+#: archive.php:18
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:16
+msgid "Yearly Archives"
+msgstr "Yearly Archives"
+
+#: archive.php:14
+msgid "Monthly Archives"
+msgstr "Monthly Archives"
+
+#: archive.php:12
+msgid "Daily Archives"
+msgstr "Daily Archives"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr "Not Found"
+
+#. Author URI of the plugin/theme
+msgid "https://fasterthemes.com/"
+msgstr "https://fasterthemes.com/"
+
+#. Author of the plugin/theme
+msgid "FasterThemes"
+msgstr "FasterThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://fasterthemes.com/wordpress-themes/customizable"
+msgstr "https://fasterthemes.com/wordpress-themes/customizable"
