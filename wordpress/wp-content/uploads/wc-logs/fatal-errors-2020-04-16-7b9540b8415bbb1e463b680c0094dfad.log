@@ -1,0 +1,99 @@
+2020-04-16T02:58:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T03:14:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T03:14:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T03:14:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:40:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:40:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:40:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:44:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:45:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:46:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
+2020-04-16T06:47:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:586
+Stack trace:
+#0 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(531): HFE\WidgetsManager\Widgets\Cart->render()
+#1 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\includes\base\element-base.php(735): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(704): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\elementor\core\base\document.php(468):  in C:\xampp\htdocs\comp2109\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 586
+
